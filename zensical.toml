@@ -10,9 +10,11 @@ use_directory_urls = false
 edit_uri  = "edit/master/docs/"
 
 nav = [
-  "index.md",
-  "Installation.md",
-  "quickstart.md"
+  { "Home" = "index.md" },
+  { "Getting Started" = [
+      { "Installation" = "getting-started/Installation.md" },
+      { "Quick Start" = "getting-started/quickstart.md" }
+    ]}
 ]
 
 [project.theme]
