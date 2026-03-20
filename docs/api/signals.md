@@ -1,3 +1,8 @@
+---
+title: Signals
+icon: fontawesome/solid/signal
+---
+
 # Signals
 
 This page documents all signals emitted by the `BillingClient`.

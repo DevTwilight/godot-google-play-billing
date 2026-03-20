@@ -1,3 +1,8 @@
+---
+title: Methods
+icon: fontawesome/solid/bolt
+---
+
 # Methods
 
 This page documents all available methods of the `BillingClient` class.

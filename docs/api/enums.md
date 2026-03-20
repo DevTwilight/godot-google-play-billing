@@ -1,3 +1,8 @@
+---
+title: Enums
+icon: fontawesome/solid/list-ul
+---
+
 # Enums
 
 Enums used by the billing API.

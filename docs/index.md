@@ -1,5 +1,6 @@
 ---
-icon: lucide/file-text
+title: Home
+icon: fontawesome/solid/house
 ---
 
 # Overview

@@ -1,3 +1,7 @@
+---
+title: Billing Client
+icon: fontawesome/solid/credit-card
+---
 # BillingClient
 
 `BillingClient` is the main class used to interact with the Google Play Billing service.
